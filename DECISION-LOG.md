@@ -8,7 +8,7 @@ Reasoning:
 - Islamically speaking, when you enter a contract (or in this case, click "Agree" on a certain platform, honoring those terms becomes a binding obligation. (refer to Surah al Ma'ida, Ayah 1) 
 - The repository is hosted on GitHub and therefore must comply with the rules set forth by GitHub (ie the rules that were agreed to upon signing up)
 - The acceptable use policies set high standards, which is precisely what this repo already aimed for (such as intellectual honesty and rigorous proof)
-- The core objective of the acceptabe use policies happens to match the Islam's tenets and teachings in nature
+- The core objective of the acceptabe use policies happens to match Islamic principles and teachings in nature
 
 #### Decision: (9th May 2026)
 > To change the license from CC-BY-NC SA 4.0 to CC-BY-SA 4.0 
