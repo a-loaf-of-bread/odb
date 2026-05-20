@@ -20,6 +20,7 @@ Reasoning:
 #### Decision: (19th March 2026)
 > To license the project under CC BY NC SA 4.0 
 Reasoning:
+- Licensed the project under CC-BY-NC-SA 4.0 in order to permit viewers to utilise the content of this project for non-commercial purposes.
 - to ensure that the project can be continued even if the LOAF is no longer present, 
 - to ensure that the project can never be monetised since it has to be licensed under the same license even if modified,
 - to ensure that the project isn't used for the financial profit of anyone and stays a project for the ummah,
