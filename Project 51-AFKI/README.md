@@ -3,7 +3,7 @@ Project 51-AFKI
 Deciding the structure of the book:
 
 # Section 1
-Theism (a) -> Monotheism (b) -> Pure Monotheism (c) -> Prophethood (d) -> Qur'an (e) -> Sunnah/Hadith (f) -> Islam (g) -> Addressing Misconceptions 
+Theism (a) -> Monotheism (b) -> Pure Monotheism (c) -> Prophethood (d) -> Qur'an (e) -> Sunnah/Hadith (f) -> Islam (g) -> Addressing Misconceptions (h)
 
 (a) > The Need for God; A Creator exists; thereby dealing with atheism, simulationism, materialism, physicalism, scientism, agnosticism, apatheism, naturalism, etc. 
 
