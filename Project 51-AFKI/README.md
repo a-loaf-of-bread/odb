@@ -64,6 +64,6 @@ This is a book dedicated to the seekers of truth, and predicated on truths found
 Section II
 1. Who is Allah? Discuss Attributes of Allah (also, maintain an intellectually honest stance)(Surah Ikhlas can be given as reference for the attributes)
 2. Need for accountability (evil dictator can kill millions, live a chill life, die)(no worries for the bozo without accountability so he wins without accountability)
-3. 6 Articles of Faith and 5 Pillars of Islam.
+3. 6 Articles of Faith/Iman and 5 Pillars of Islam.
 4. Other Islamic Principles and Beliefs and Teachings and Commands (such as no lying, no backbiting, no injustice, no interest, ushr, etc etc etc... basically hikmah behind everything. especially the ones which Muslims find more "problematic" such as music probibition. highlight how it creates a psychological dependency, takes away time (by causing person to just mimic tunes and play em in the head and stuff) which could be used for dhikr or for deeper thinking (even for stuff like uh thinking abt the problems with that one drone you built for your uni project and why it didn't work and how u can fix it and stuff)... alcohol's bad we know that already, etc etc.... 
    
