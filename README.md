@@ -87,7 +87,7 @@ What you just read was the unfinished but 'neat' version of the description-text
 -  InshaAllah, the rough notes shallt be rewritten neatly utilising that english A* in this summer. and a "minimum viable product" has to be mafe.
 -   Anyways, crowdsourcing is better. There are many, Many ways in which u can contribute. 
 
-- Some of the ways in which you can contribute
+- Some of the ways in which you **can** contribute (possible ways)(written here to highlight that even if you feel your expertise isn't related... it just might me)
 * Give us ideas
 * Be an advisor
 * Submit facts (with sources)
@@ -131,6 +131,8 @@ Why compile? Why synthesize?
 Another important note: The reason why project is open-source, and not solo... there are several examples throughout history of someone starting a  project or a book and similar things but dying before it's finished. The projects usually die that way as well. So an open source project hosted here on GitHub should hopefully (InshaAllah) increase the bus factor and ensure its completion even if significantly later. 
 
 Note #3: the pamphlet Common Sense by Thomas Paine. Really persuasive and helpful. And the best thing was, it wasn't a standalone pamphlet. It was read aloud so that even people who couldn't read could understand the message. Might try the same with this project. Podcasts, video series, etc. InshaAllah we can also take accessibility into account and prepare versions for blind people, deaf people, etc.  
+
+Note #4: Set up automations on GitHub to automatically check PRs and Issues for quality control. Such as for ensuring that citations are there, a wayback machine archive of the source has been made (or possibly an automation to check the source if it's already archived, and if it's not, pinging wayback machine to archive it after having confirmed that the cited/linked source proves the point of the contributor.) 
 
 ---
 
