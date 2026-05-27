@@ -45,7 +45,7 @@ The ‘systematic renewal’ in question was anything but easy. 23 years of unpa
 
 ---
 
-What you just read was the unfinished but 'neat' version of the description-text of this project. Including the rough one here that I predicated the (abovely) text on below, just in case I never get to finish it myself:
+What you just read was the unfinished but 'neat' version of the description-text of this project. Including the rough one here that I predicated the (abovely) text on below, just in case I never get to finish it myself (the following text is the rough outline on which the text above was predicated, needs to be rewritten neatly with A* English, ie not-so-casual):
 
 - these days are not the best days for the Muslims. Islam under attack. Islamophobia is on rise. 
 - Strange glad tidings hadith
@@ -115,11 +115,39 @@ What you just read was the unfinished but 'neat' version of the description-text
 
 thas abt it.
 
+
+---
+
+NOTE about Project 51-AFKI: 
+
+Before publicising the project (to the general public), finish README.md, CONTRIBUTING.md, COMPLIANCE.md, issue templates, pull request templates, set up safeguards against spam PRs and activity, meet all standards (https://opensource.guide/), etc. AND
+
+set up the repo akin to an "awesome list" (context https://github.com/topics/awesome) or like TOP-for-webdev... start not by writing, but by curating stuff. get the absolutely best resources on the internet dealing with a particular issue/question/argument so that people can refer to this directory to reach resources that answer any doubts they have. do this for all sorts of topics, till the end, and this isn't something that 'ends' when done once bcz new resources spring up every other day. Once a formidable directory is built, however, focus on creating an MVP by synthesising all the info in the resources in an accessible language. (TLDR book = accessible, standard book = accessible, scholarly = scholarly). 
+
+Why compile? Why synthesize?
+- There are many great resources on the internet already. Scattered. A doubting Muslim may not have sufficient willpower to search for many articles. So make a collection for them.
+- Synthesie because... for one issue, there might be 10 good URLs/resources posted. Resource 1 might be great for a general overview, whilst resource 9 might have a GENIUS point. Most people would probably read the first resource, or the first 3 or 4. Thus missing the great point. So the synthesis will allow everything to be presented (the general overview + the great point) in one coherent piece of writing. Need to contact authors of said great points for permission to reproduce, and can also make the point in a different way whilst giving full credit to original author. 
+
+---
+
 ## Project ER-97
 - Recognises that the educational system is outdated and is in need of reform in order to ensure that students develop proper learning skills;
 
+edu system is ineffective. Examine the world’s best education systems and teaching models and educational institutes and whatnot throughout human history and across continents, from antiquity to this day and age. From that skill-based edu system (forgot name, similiar to how guilds work though) to Bayt al Hikma (Baghdad) to Toledo (al Andalus) to MIT (Mens et Manus) to Finland (great edu system) to yeah. Then synthesize the best things/parts of all into one great edu system to rule them all, one edu system to find them, one edu system to bring them all, and in the brightness bind them. 
+
+Additionally, utilise the Socratic Method to breed more curiosity in children (who r usually already rlly curious naturally). Instead of simply feeding definitions, formulae, concepts to students, help them arrive at those conclusions independently. 
+
+learn by doing. real-world applications. project-based learning. maybe before teaching a concept, tell the students abt the upcoming project (should be interesting) so that the students are excited to learn the topic. then teach em relevant concepts in a nice manner which sticks with em forever not something that they forget in a month or three. perhaps the projects should be such that they compound knowledge learnt in all previous 'grades'/'classes'. also, class-based system is kinda outdated. irl you're not always with people exactly your age. so mirror that. make it all topic based. abolish grade levels based on age. advance purely based on competence and sheer mastery of stuff involved. 
+
+LEARN BY DOING. It *might* all fit together like this: Finnish edu system for early years --> socratic based learning years --> Bayt al Hikma and Toledo type stuff for broadening perspectives --> MIT way, mind and hand --> guild way to graduation so that you have proper work experience already (doesnt have to start in uni level, just increase focus in uni)(same goes for perspectives broadening phase, it may be done alongside socratic phase) 
+
+
+
 ## Project Chlorophyll
 - Recognises that our planet is facing a myriad of environmental problems such as climate change and global warming;
+
+start by reminding the Muslims of the importance of caring for the blessing that is the earth. remind them that they are vicegerents on earth. section-2 of 51-afki basically but for environmentalism: incentives. give actionable plans for individuals, small-scale and large scale-orgs, etc.
+gather resources from across the internet and synthesise them too. also might take the form of consistent reminders for environmental action both independently and by supporting existing environmentalist groups and individuals. mention the sapling hadith too.
 
 ### Miscellaneous Ideas
 
@@ -142,7 +170,7 @@ For this purpose, section 2, on incentives, matters a lot. There is a verse in t
 
 In the modern world, we have a "disguised problem" in the sense that almost everyone is "specialised" in one field and doesn't know much abt others. which isn't great. the Sahaba for instance, were successful traders, farmers, intelligence analysts, statesmen, warriors, scholars, etc. In the Islamic golden age too, ppl were often polymaths. Nowadays diff fields studied in isolation which is kinda ehhh. Fix that. ER-97. Project 51-AFKI = the foundation, akin to the 10yrs of the 23yrs of Islam's revelation days. Or like the approx 30yrs of intellectual rebuilding and systematic renewal under Nur al-Din Zengi. 
 
-
+As for the other two projects (chlorophyll and er-91), they won't be worked on simultaneously since the scope of each project in ODB is too great for one person to handle without burning out. Besides, for a society to do great things, it needs to have a 'push' that makes it do said great things. These two projects are essentially 'skyscrapers', hard to build alone... and they need a foundation to be really effective which in this case is Project 51-AFKI. Can't build a skyscraper without a foundation. Said foundation will, InshaAllah, make the Muslim ummah focus on the great issues facing us and our world/planet as a whole. Once Project 51-AFKI has produced 'version 1' of its end goal (may be a book, a website, online repo, video series, infographics, leaflets, podcasts, anything) then work on these two projects can commence. For the time being these two projects are 'frozen'. These two projects are meant to provide a highly effective deployment-ready blueprint, so that any one or a group of people willing to utilise it may be able to apply it irl. 
 
 ## References:
 [^1]: https://sunnah.com/muslim:145
