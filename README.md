@@ -5,7 +5,7 @@ Brief Overview of Constituent Projects:
 **Project 51-AFKI:**
 *This project deals with the root of all the problems currently facing the ummah: lack of conviction, lack of incentives, and lack of unity*
 
-**Project ER-97:**
+**Project Mektep:** (previously called Project ER-97)
 *This project deals with educational reforms for schools, colleges and universities.*
 
 **Project Chlorophyll:**
@@ -136,7 +136,7 @@ Note #4: Set up automations on GitHub to automatically check PRs and Issues for 
 
 ---
 
-## Project ER-97
+## Project Mektep (previously Project ER-97)
 - Recognises that the educational system is outdated and is in need of reform in order to ensure that students develop proper learning skills;
 
 edu system is ineffective. Examine the world’s best education systems and teaching models and educational institutes and whatnot throughout human history and across continents, from antiquity to this day and age. From that skill-based edu system (forgot name, similiar to how guilds work though) to Bayt al Hikma (Baghdad) to Toledo (al Andalus) to MIT (Mens et Manus) to Finland (great edu system) to yeah. Then synthesize the best things/parts of all into one great edu system to rule them all, one edu system to find them, one edu system to bring them all, and in the brightness bind them. 
@@ -147,6 +147,12 @@ learn by doing. real-world applications. project-based learning. maybe before te
 
 LEARN BY DOING. It *might* all fit together like this: Finnish edu system for early years --> socratic based learning years --> Bayt al Hikma and Toledo type stuff for broadening perspectives --> MIT way, mind and hand --> guild way to graduation so that you have proper work experience already (doesnt have to start in uni level, just increase focus in uni)(same goes for perspectives broadening phase, it may be done alongside socratic phase) 
 
+- Project Mektep. Hmm… get the absolutely best educators and scholars and teachers and professors and experts on educational matters from around the world. Examine entire human history for educational systems (one scholar can focus on a certain empire or era, whilst another expert can focus on the bayt al Hikma, whilst one teacher can focus on finland edu system, another can see what MIT gets right) and see what each system or methodology got right, and what they got wrong. 
+- Supplement this with feedback from teachers, students, and parents alike about ideas, suggestions, experiences, problems they face, solutions, etc etc. Synthesize all the finds into one great edu system to rule them all, one edu system to find them, one edu system to bring them all, and in the brightness bind them. Can’t change current systems, so create a parallel. For testing, most parents won’t want their kids to be test subjects.
+- But firstly the fact that all the great educators made it will hopefully alleviate that a bit. To add to that, don’t just make it a whole standalone thing at first. Think of a weekend school or something but super fun. See the results. Another way could be to incentivise people by making it entirely free. Orrr take it one step, literally give stipends to the students. Also I don’t mean a school or a uni alone. I mean an edu system from kindergarten to primary to middle to high to college to university to PhD.
+
+- One way to start it off would be to create a white paper, examine a few educational systems and methodologies in this day and age. Create a simple "lecture" for a cross disciplinary topic. Maybe start off as a mere summer school project idea. Record the results, observations, etc. Essentially, another minimum viable product (MVP).
+- Research. Synthesize. White Paper. Small-scale test. Pitch to actual great educators and scholars of this day and age. 
 
 
 ## Project Chlorophyll
@@ -161,6 +167,7 @@ Okay.
 There’s already three extremely ambitious projects here. but… there’s room for two more. 
 
 One for softening people’s hearts towards Islam; the people who don’t care as much abt theology; by highlighting Islam’s "worldly" contributions. For example, the hadith stating “there is a cure for every disease” fuelling Islamic research. So many words being inspired from Arabic. Bayt al Hikma etc. and Toledo and Baghdad and Cordoba. So basically Islamic history and achievements. Must take care not to attribute everything to Islam: give credit where it's due to others. Intellectual honesty must be an integral part of a Muslim. 
+Project al Isra? Al Isra sounds so good imho. means a night journey? Also it has a nice… context to it. the Isra happened after Aam ul Hazn. Journey in the night's darkness to the greatest heights. a journey through the dark night of post-colonial trauma and inferiority complex (which has contributed greatly to the learned helplessness of the ummah) to the great roots.
 
 Second project for financing all these other projects once it gets to the phase where the books n all are ready and money has to be spent on stuff like printing, translation, designing marketing, turning-into-videos/infographics etc. by maybe investing in entrepreneurial ventures in Muslim societies and communities. This way you make them progress economically too, have Islam-first and highly moral businesses, and u can maybe take 10 percent of the profit for ODB (operation distributing bread). And maybe another 10% for literally "distributing bread". Take care in this project to maintain maximum levels of integrity and transparency and take all methods necessary to prevent any and all corruption.
 
